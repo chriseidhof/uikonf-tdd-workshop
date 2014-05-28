@@ -1,0 +1,6 @@
+{
+    "aws-access-key": "AKIAIGAYXI5KIHGJERUA",
+    "aws-bucket-name": "uikonf-tdd-workshop",
+    "aws-bucket-website": "uikonf-tdd-workshop.s3-website-us-east-1.amazonaws.com",
+    "port": 8966
+}
